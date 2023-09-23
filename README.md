@@ -99,8 +99,8 @@ scrape_configs:
               - "3000:3000"
             network_mode: host
         ```
-      - **Docker compose file (final version):**
-          ```yaml
+    - **Docker compose file (final version):**
+        ```yaml
             version: "3.3"
             volumes:
               prometheus_data:
@@ -122,5 +122,5 @@ scrape_configs:
                 ports:
                   - "3000:3000"
                 network_mode: host
-          ```
+       ```
 
