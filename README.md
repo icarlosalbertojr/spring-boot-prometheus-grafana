@@ -4,8 +4,8 @@
 
 - [X] Configure Prometheus
 - [X] Configure Grafana
-- [] Obtains JVM metrics
-- [] Obtains Spring metrics
+- [ ] Obtains JVM metrics
+- [ ] Obtains Spring metrics
 
  
 ## Configure Prometheus
